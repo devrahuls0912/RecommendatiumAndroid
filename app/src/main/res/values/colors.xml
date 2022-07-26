@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="recommendatium_black">#de000000</color>
+    <color name="recommendatium_gray_50">#fafafa</color>
+    <color name="recommendatium_gray_50_a600">#99fafafa</color>
+    <color name="recommendatium_white">#deffffff</color>
+    <color name="recommendatium_yellow_300">#f8f99f</color>
+    <color name="recommendatium_yellow_500">#ffff63</color>
+    <color name="recommendatium_blue">#039BE5</color>
+    <color name="recommendatium_dark_blue">#006db3</color>
+    <color name="recommendatium_light_blue">#58CBFF</color>
+    <color name="recommendatium_very_light_blue">#C6EDFF</color>
+    <color name="recommendatium_yellow">#FFCA28</color>
+    <color name="recommendatium_bright_yellow">#FFCC30</color>
+    <color name="recommendatium_orange">#FF9F00</color>
+    <color name="recommendatium_deep_orange">#FF8A65</color>
+    <color name="recommendatium_green">#00BFA5</color>
+</resources>
